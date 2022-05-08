@@ -1,8 +1,6 @@
 # Portfolio
 
 ---
-## Data Engineer Projects
----
 ## Datacamp
 ---
 ## Hackkerrank
@@ -11,7 +9,11 @@
 ---
 ## Tableau
 ---
+## Github
+---
 ## Data Science Projects
+---
+## Data Engineer Projects
 ---
 <!-- The Modal -->
 <div id="modal-container" class="modal">
