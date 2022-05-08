@@ -10,7 +10,9 @@
 ## Github
 ---
 ## Data Visualization
-### Tableau
+<span style="color:green;font-weight:700;font-size:20px">
+    Tableau
+</span>
 ### Google Data Studio
 ### Power BI
 ---
