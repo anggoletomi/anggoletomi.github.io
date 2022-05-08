@@ -1,0 +1,180 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+:root {
+  // reference: https://uxdesign.cc/dark-mode-ui-design-the-definitive-guide-part-1-color-53dcfaea5129
+  // cool grey: https://miro.medium.com/max/2160/1*uJ2ReGgXJhUi75mFCmUrZA.png
+  // secondary & extended color: https://miro.medium.com/max/1400/1*3BOP5UJFXZmyYNWpaEI7nQ.png
+  
+  // cool grey
+  // 50-400: text have to be dark
+  // 600-900: text have to be light
+  --color900: #1F2933;          // darkest
+  --color800: #323F4B;
+  --color700: #3E4C59;
+  --color600: #52606D;
+  --color500: #616E7C;          // center
+  --color400: #7B8794;
+  --color300: #9AA5B1;
+  --color200: #CBD2D9;
+  --color100: #E4E7EB;
+  --color50: #F5F7FA;           // lightest
+  
+  --secondaryBlue: #00A8CC;     // baby blue. secondary color?
+  --extendedBlue500: #00A3BF;
+  --extendedBlue400: #00B8D9;
+  --extendedBlue300: #00C7E6;
+  --extendedBlue200: #79E2F2;
+  --extendedBlue100: #B3F5FF;
+  
+  --secondaryGreen: #028FA3;    // sea green, secondary color
+  --extendedGreen500: #006644;
+  --extendedGreen400: #00875A;
+  --extendedGreen300: #36B27E;
+  --extendedGreen200: #57D9A3;
+  --extendedGreen100: #ABF5D1;
+}
+
+body {
+  background-color: var(--color900);
+  color: var(--color100);
+  
+  padding: 50px;
+}
+
+// link color
+a {
+  color: var(--extendedGreen200);
+}
+
+// link hover
+a:hover, a:focus {
+  color: var(--extendedGreen300);
+  font-weight: bold;
+}
+
+// header color
+h1, h2, h3, h4, h5, h6 {
+  color: var(--extendedGreen200);
+  margin:0 0 10px;
+}
+
+h3 {
+  border-radius: 5px;                 // curved edge (all)
+  background-color: var(--color700);  // darker than h2
+  padding: 10px;
+}
+
+h2 {
+  border-radius: 5px;                 // curved edge (all)
+  background-color: var(--color600);  // lighter than h3
+  padding: 10px;
+}
+
+// horizontal line (--- or ___ in markdown)
+hr {
+  border: 0;
+  background: var(--extendedGreen300);
+  height: 1px;
+  margin: 0 0 10px;
+}
+
+// bold text
+strong{
+  color: var(--extendedGreen200);
+}
+
+blockquote {
+  border-left: 1px solid var(--color100);
+  margin: 0;
+  padding: 0 0 0 20px;
+  font-style: italic;
+}
+
+// code snippets (code = inline code; pre = block)
+code, pre {
+  font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  background-color: var(--color900);
+  color: var(--color100);
+}
+
+pre {
+  padding:8px 15px;
+  background-color: var(--color900);
+  border-radius:5px;
+  border:1px solid var(--color100);
+  overflow-x: auto;
+}
+
+// body wrapper
+.wrapper {
+  width: 100%;
+  max-width: 1366px; // my screen is still 1366 x 768
+  margin: 0 auto;
+}
+
+// header, left-area (description)
+header{
+  border-radius: 15px;                // curved edge (all)
+  background: var(--color800);
+  
+  float: left;
+  position: fixed;
+  padding: 20px;
+  
+  // width: 25%;
+  // max-width: 300px;
+  width: 260px;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+// section, right-area (content)
+section {
+  border-radius: 15px;
+  background: var(--color800);
+  
+  float: right;
+  padding: 20px;
+  
+  // width: 75%;
+  // max-width: 800px;
+  width: 760px;
+}
+
+@media print, screen and (max-width: 960px) { // on different screen size
+
+  div.wrapper {
+    width:100%;
+    margin:0 auto;
+  }
+
+  header, section, footer {
+    float:none;
+    position:static;
+    width:auto;
+  }
+
+  header {
+    padding: 10px;
+    margin: 0 auto;
+  }
+
+  section {
+    border: none;
+    border-width: none;
+    padding: 10px;
+    margin: 10px auto 20px;
+  }
+
+  header a small {
+    display:inline;
+  }
+
+  header ul {
+    position:absolute;
+    right:50px;
+    top:52px;
+  }
+}

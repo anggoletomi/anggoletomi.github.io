@@ -1,0 +1,33 @@
+title: Adhang Muntaha # your name (or website title) here
+logo: "/images/logo-avatar.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Welcome to my GitHub Page!
+  <br><br>
+  This is my portfolio on data science and machine learning. It contains some of my projects which I used to hone my knowledge and skills.
+  
+  <style>
+    .social {
+      width:50%;
+      height:auto;
+      margin:auto;
+    }
+  </style>
+  
+  <div class="social" style="cursor:pointer; background-color:#0077B5;" onclick="window.open('https://www.linkedin.com/in/adhangmuntaha/', '_blank').focus();">
+    <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/adhangmuntaha/" alt="LinkedIn">
+  </div>
+  
+  <div class="social" style="cursor:pointer; background-color:#121011;" onclick="window.open('https://github.com/adhang', '_blank').focus();">
+    <img src="https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/adhang" alt="GitHub">
+  </div>
+  <div class="social" style="cursor:pointer; background-color:#20BEFF;" onclick="window.open('https://www.kaggle.com/adhang', '_blank').focus();">
+    <img src="https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&link=https://www.kaggle.com/adhang" alt="Kaggle">
+  </div>
+  
+  <div class="social" style="cursor:pointer; background-color:#E97627;" onclick="window.open('https://public.tableau.com/app/profile/adhang', '_blank').focus();">
+    <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&link=https://public.tableau.com/app/profile/adhang" alt="Tableau">
+  </div>
+  
+theme: jekyll-theme-minimal
+# remote_theme: "godalming123/minimal"
+google_analytics: G-KY0E3ESDBQ # your Google Analytics tracking ID here
