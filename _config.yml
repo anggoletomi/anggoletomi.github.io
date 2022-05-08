@@ -41,7 +41,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   <div style="clear:both"></div>
 
-  <br><br>
+  <br />
   <span style="color:white; font-weight:300; font-5ize:1px; font-style: italic">
     Click on one of the pages above to see more details.
   </span>
