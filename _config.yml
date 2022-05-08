@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Welcome to my GitHub Page!
   <br><br>
   I post my data related project here.
-  <br>
+  <br><br>
   <img src="https://esdm.jatengprov.go.id/images/OPENDATASOFT_MONITORING.gif" width="100px">
   
   <style>
@@ -41,7 +41,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   <div style="clear:both"></div>
 
-  <span style="color:green; font-weight:700; font-size:20px; font-style: italic">
+  <span style="color:white; font-weight:700; font-5ize:5px; font-style: italic">
     Click on one of the pages above to see more details.
   </span>
   
