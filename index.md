@@ -6,8 +6,6 @@
 
 [![button](https://img.shields.io/badge/Datacamp-SQL%20Fundamentals-lightgrey?style=social&logo=datacamp&logoColor=black)](https://www.datacamp.com/statement-of-accomplishment/track/ec42a9f7bd16776e05a084d57884472cfba69dfb) Credential ID : ec42a9f7bd16776e05a084d57884472cfba69dfb
 
-[![button](https://img.shields.io/badge/Datacamp-SQL%20Fundamentals-lightgrey?style=social&logo=datacamp&logoColor=black)](https://drive.google.com/file/d/1wUmjfSRfZFYljjlYfGxDmNcaoClKIzOJ/view?usp=sharing)
-
 # Portfolio
 ---
 ## Datacamp
