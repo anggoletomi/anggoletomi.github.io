@@ -10,7 +10,7 @@
 ## Github
 ---
 ## Data Visualization
-<span style="color:green;font-weight:700;font-size:20px">
+<span style="color:green;font-weight:700;font-size:20px" align="center">
     Tableau
 </span>
 
