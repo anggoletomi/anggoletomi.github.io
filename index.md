@@ -1,6 +1,10 @@
 # Portfolio
 
 ---
+## Certification
+<img src="/certification-and-logo/rakamin_ds.png" alt="Rakamin Data Science" width="200" height="200">
+
+---
 ## Datacamp
 ---
 ## Hackkerrank
