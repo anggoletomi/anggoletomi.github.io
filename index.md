@@ -14,7 +14,6 @@
 ## Data Science Projects
 ---
 ## Data Engineer Projects
----
 <!-- The Modal -->
 <div id="modal-container" class="modal">
 
