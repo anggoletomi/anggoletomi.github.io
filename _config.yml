@@ -40,9 +40,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   </div>
   
   <div style="clear:both"></div>
-  
-  <br><br>
-  Click on one of the pages above to see more details
+
+  Click on one of the pages above to see more details.
   
 theme: jekyll-theme-minimal
 # remote_theme: "godalming123/minimal"
