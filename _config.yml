@@ -39,7 +39,7 @@ description: > # your text below (remove <br> elements if you don't need line br
     <img src="https://img.shields.io/badge/-Hackerrank-3C565B?style=for-the-badge&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/anggoletomi" alt="Hackerrank">
   </div>
   
-  <div style="clear:both></div>
+  <div style="clear:both"></div>
   
 theme: jekyll-theme-minimal
 # remote_theme: "godalming123/minimal"
