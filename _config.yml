@@ -15,10 +15,11 @@ description: > # your text below (remove <br> elements if you don't need line br
     }
   </style>
   
-  <div class="social" style="cursor:pointer; background-color:#0077B5;" onclick="window.open('https://www.linkedin.com/in/anggoletomi/', '_blank').focus();">
+  <div class="social" style="float:left; cursor:pointer; background-color:#0077B5;" onclick="window.open('https://www.linkedin.com/in/anggoletomi/', '_blank').focus();">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anggoletomi/" alt="LinkedIn">
   </div>
-  <div class="social" style="cursor:pointer; background-color:#121011;" onclick="window.open('https://github.com/anggoletomi/', '_blank').focus();">
+  
+  <div class="social" style="float:left; cursor:pointer; background-color:#121011;" onclick="window.open('https://github.com/anggoletomi/', '_blank').focus();">
     <img src="https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/anggoletomi/" alt="GitHub">
   </div>
   
