@@ -15,27 +15,27 @@ description: > # your text below (remove <br> elements if you don't need line br
     }
   </style>
   
-  <div class="social" style="float:left; padding:1px; cursor:pointer; background-color:#0077B5;" onclick="window.open('https://www.linkedin.com/in/anggoletomi/', '_blank').focus();">
+  <div class="social" style="float:left; padding:0.5px; cursor:pointer; background-color:#0077B5;" onclick="window.open('https://www.linkedin.com/in/anggoletomi/', '_blank').focus();">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anggoletomi/" alt="LinkedIn">
   </div>
   
-  <div class="social" style="float:left; padding:1px; cursor:pointer; background-color:#121011;" onclick="window.open('https://github.com/anggoletomi/', '_blank').focus();">
+  <div class="social" style="float:left; padding:0.5px; cursor:pointer; background-color:#121011;" onclick="window.open('https://github.com/anggoletomi/', '_blank').focus();">
     <img src="https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/anggoletomi/" alt="GitHub">
   </div>
   
-  <div class="social" style="float:left; padding:1px; cursor:pointer; background-color:#20BEFF;" onclick="window.open('https://www.kaggle.com/anggoletomi', '_blank').focus();">
+  <div class="social" style="float:left; padding:0.5px; cursor:pointer; background-color:#20BEFF;" onclick="window.open('https://www.kaggle.com/anggoletomi', '_blank').focus();">
     <img src="https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&link=https://www.kaggle.com/anggoletomi" alt="Kaggle">
   </div>
   
-  <div class="social" style="float:left; padding:1px; cursor:pointer; background-color:#E97627;" onclick="window.open('https://public.tableau.com/app/profile/anggoletomi.marlis.putra', '_blank').focus();">
+  <div class="social" style="float:left; padding:0.5px; cursor:pointer; background-color:#E97627;" onclick="window.open('https://public.tableau.com/app/profile/anggoletomi.marlis.putra', '_blank').focus();">
     <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&link=https://public.tableau.com/app/profile/anggoletomi.marlis.putra" alt="Tableau">
   </div>
   
-  <div class="social" style="float:left; padding:1px; cursor:pointer; background-color:#617C58;" onclick="window.open('https://www.datacamp.com/profile/anggoletomiputra', '_blank').focus();">
+  <div class="social" style="float:left; padding:0.5px; cursor:pointer; background-color:#617C58;" onclick="window.open('https://www.datacamp.com/profile/anggoletomiputra', '_blank').focus();">
     <img src="https://img.shields.io/badge/-Datacamp-617C58?style=for-the-badge&logo=datacamp&logoColor=white&link=https://www.datacamp.com/profile/anggoletomiputra" alt="Datacamp">
   </div>
   
-  <div class="social" style="float:left; padding:1px; cursor:pointer; background-color:#3C565B;" onclick="window.open('https://www.hackerrank.com/anggoletomi', '_blank').focus();">
+  <div class="social" style="float:left; padding:0.5px; cursor:pointer; background-color:#3C565B;" onclick="window.open('https://www.hackerrank.com/anggoletomi', '_blank').focus();">
     <img src="https://img.shields.io/badge/-Hackerrank-3C565B?style=for-the-badge&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/anggoletomi" alt="Hackerrank">
   </div>
   
