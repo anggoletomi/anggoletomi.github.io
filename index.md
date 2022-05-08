@@ -10,12 +10,17 @@
 ## Github
 ---
 ## Data Visualization
-<h1 align="center"><span style="color:#FFFFFF;font-weight:500;font-size:10px">
+<h1 align="center"><span style="color:#FFFFFF;font-weight:700;font-size:15px">
     Tableau
 </span></h1>
 
-### Google Data Studio
-### Power BI
+<h1 align="center"><span style="color:#FFFFFF;font-weight:700;font-size:15px">
+    Google Data Studio
+</span></h1>
+
+<h1 align="center"><span style="color:#FFFFFF;font-weight:700;font-size:15px">
+    Power BI
+</span></h1>
 ---
 ## Data Science Projects
 ---
