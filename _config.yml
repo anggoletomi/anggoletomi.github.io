@@ -7,8 +7,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   Welcome to my GitHub Page!
   <br><br>
   I post my data related project here.
-  <br><br>
-  Click on one of the pages below to see more details
   
   <style>
     .social {
@@ -43,6 +41,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   </div>
   
   <div style="clear:both"></div>
+  
+  <br><br>
+  Click on one of the pages above to see more details
   
 theme: jekyll-theme-minimal
 # remote_theme: "godalming123/minimal"
