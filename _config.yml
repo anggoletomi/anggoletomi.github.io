@@ -29,12 +29,12 @@ description: > # your text below (remove <br> elements if you don't need line br
     <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&link=https://public.tableau.com/app/profile/anggoletomi.marlis.putra" alt="Tableau">
   </div>
   
-    <div class="social" style="cursor:pointer; background-color:#9ACD32;" onclick="window.open('https://www.datacamp.com/profile/anggoletomiputra', '_blank').focus();">
-    <img src="https://img.shields.io/badge/-Datacamp-yellowgreen?style=for-the-badge&logo=datacamp&logoColor=white&link=https://www.datacamp.com/profile/anggoletomiputra" alt="Datacamp">
+    <div class="social" style="cursor:pointer; background-color:#617C58;" onclick="window.open('https://www.datacamp.com/profile/anggoletomiputra', '_blank').focus();">
+    <img src="https://img.shields.io/badge/-Datacamp-617C58?style=for-the-badge&logo=datacamp&logoColor=white&link=https://www.datacamp.com/profile/anggoletomiputra" alt="Datacamp">
   </div>
   
-    <div class="social" style="cursor:pointer; background-color:#E97627;" onclick="window.open('https://www.hackerrank.com/anggoletomi', '_blank').focus();">
-    <img src="https://img.shields.io/badge/-Hackerrank-lightgrey?style=for-the-badge&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/anggoletomi" alt="Hackerrank">
+    <div class="social" style="cursor:pointer; background-color:#3C565B;" onclick="window.open('https://www.hackerrank.com/anggoletomi', '_blank').focus();">
+    <img src="https://img.shields.io/badge/-Hackerrank-3C565B?style=for-the-badge&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/anggoletomi" alt="Hackerrank">
   </div>
   
 theme: jekyll-theme-minimal
