@@ -3,15 +3,15 @@
 ---
 ### Data Science Projects
 ---
-
-**Contents**
+## Datacamp
 ---
-### Learn Data Science
+## Hackkerrank
 ---
 ## Kaggle
 ---
 ## Tableau
 ---
+### Data Engineer Projects
 
 **Interactive Version**<br>
 For a better experience, change it to a desktop layout and full-screen mode. The settings are on the bottom right.
