@@ -30,11 +30,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   </div>
   
     <div class="social" style="cursor:pointer; background-color:#9ACD32;" onclick="window.open('https://www.datacamp.com/profile/anggoletomiputra', '_blank').focus();">
-    <img src="https://img.shields.io/badge/-Datacamp-yellowgreen?style=for-the-badge&logo=datacamp=https://www.datacamp.com/profile/anggoletomiputra" alt="Datacamp">
+    <img src="https://img.shields.io/badge/-Datacamp-yellowgreen?style=for-the-badge&logo=datacamp&logoColor=white&link=https://www.datacamp.com/profile/anggoletomiputra" alt="Datacamp">
   </div>
   
     <div class="social" style="cursor:pointer; background-color:#E97627;" onclick="window.open('https://www.hackerrank.com/anggoletomi', '_blank').focus();">
-    <img src="https://img.shields.io/badge/-Hackerrank-lightgrey?style=for-the-badge&logo=hackerrankp=https://www.hackerrank.com/anggoletomi" alt="Hackerrank">
+    <img src="https://img.shields.io/badge/-Hackerrank-lightgrey?style=for-the-badge&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/anggoletomi" alt="Hackerrank">
   </div>
   
 theme: jekyll-theme-minimal
