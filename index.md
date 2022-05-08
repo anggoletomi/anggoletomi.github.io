@@ -10,7 +10,7 @@
     <span style="color:white;font-weight:700;font-size:12px">Credentials ID : </span>
   </div>
   
-<div class="social" style="clear:left; float:left; margin-right:150px; cursor:pointer; background-color:#323f4b;" onclick="window.open('https://www.datacamp.com/statement-of-accomplishment/track/ec42a9f7bd16776e05a084d57884472cfba69dfb', '_blank').focus();">
+<div class="social" style="clear:left; float:left; margin-right:10px; margin-left:100px; margin-bottom:200; padding:10px; cursor:pointer; background-color:#323f4b;" onclick="window.open('https://www.datacamp.com/statement-of-accomplishment/track/ec42a9f7bd16776e05a084d57884472cfba69dfb', '_blank').focus();">
     <img src="https://img.shields.io/badge/Datacamp-SQL%20Fundamentals-lightgrey?style=social&logo=datacamp&logoColor=black&link=https://www.datacamp.com/statement-of-accomplishment/track/ec42a9f7bd16776e05a084d57884472cfba69dfb" alt="Datacamp - SQL Fundamentals"><br>
     <span style="color:white;font-weight:700;font-size:12px">Credentials ID : ec42a9f7bd16776e05a084d57884472cfba69dfb</span>
   </div>
