@@ -41,7 +41,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   <div style="clear:both"></div>
 
-  Click on one of the pages above to see more details.
+  <span style="color:green; font-weight:700; font-size:20px; font-style: italic">
+    Click on one of the pages above to see more details.
+  </span>
   
 theme: jekyll-theme-minimal
 # remote_theme: "godalming123/minimal"
