@@ -7,6 +7,8 @@
 ---
 ## Kaggle
 ---
+## Github
+---
 ## Data Visualization
 ### Tableau
 ### Google Data Studio
@@ -15,5 +17,3 @@
 ## Data Science Projects
 ---
 ## Data Engineer Projects
----
-## Github
