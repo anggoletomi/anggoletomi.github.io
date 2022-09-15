@@ -19,6 +19,8 @@ $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverf
 
 $${\color{red}apakah \space ini \space merah}$$
 
+${\color{red}apakah \space ini \space merah}$
+
 $${\color{green}Green}$$
 
 $${\color{lightgreen}Light \space Green}$$
