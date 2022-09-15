@@ -3,7 +3,9 @@
 ## Data Science Projects
 ---
 ## Data Engineer Projects
-### [1. Orami Web Scraping](https://anggoletomi.github.io/orami_web_scraping/orami_web_scraping.html)
+#### 1. Orami Web Scraping
+Web scraping to e-commerce marketplace https://www.orami.co.id/
+click here for the code [here](https://anggoletomi.github.io/orami_web_scraping/orami_web_scraping.html)
 
 ---
 ## Data Visualization
