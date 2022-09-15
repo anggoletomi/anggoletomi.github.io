@@ -10,7 +10,7 @@ Web scraping to e-commerce marketplace [Orami](https://www.orami.co.id/) , find 
 
 #### 2. [Get Shopee Product Ratings](https://anggoletomi.github.io/get_rating_shopee/get_rating_shopee.html)
 
-Define the product url that we want to extract the comment and ratings, and the code [here](https://anggoletomi.github.io/get_rating_shopee/get_rating_shopee.html) will create clean table for it.
+Define the product url from [Shopee](https://shopee.co.id/) that we want to extract the comment and ratings, and the code [here](https://anggoletomi.github.io/get_rating_shopee/get_rating_shopee.html) will create clean table for it.
 
 ---
 ## Data Visualization
