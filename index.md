@@ -17,8 +17,7 @@ Web scraping to e-commerce marketplace [Orami](https://www.orami.co.id/) , find 
 
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
-$${\color{red}Red}$$
-$${\color{red}Red}$$
+$${\color{red}apakah ini merah}$$
 
 $${\color{green}Green}$$
 
