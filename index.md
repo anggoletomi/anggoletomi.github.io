@@ -16,12 +16,20 @@ Web scraping to e-commerce marketplace [Orami](https://www.orami.co.id/) , find 
 
 
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+
 $${\color{red}Red}$$
+$${\color{red}Red}$$
+
 $${\color{green}Green}$$
+
 $${\color{lightgreen}Light \space Green}$$
+
 $${\color{blue}Blue}$$
+
 $${\color{lightblue}Light \space Blue}$$
+
 $${\color{black}Black}$$
+
 $${\color{white}White}$$
 
 
