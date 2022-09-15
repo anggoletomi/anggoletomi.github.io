@@ -13,5 +13,9 @@ Web scraping to e-commerce marketplace [Orami](https://www.orami.co.id/) , find 
 <h1 align="center"><span style="color:#FFFFFF;font-weight:700;font-size:15px">
     Tableau
 </span></h1>
+
+<p style='color:red'>This is some red text.</p>
+<font color="red">This is some text!</font>
+These are <b style='color:red'>red words</b>.
 ---
 
