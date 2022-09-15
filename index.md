@@ -3,7 +3,7 @@
 ## Data Science Projects
 ---
 ## Data Engineer Projects
-#### <span style="color:#0F88D8"> 1. Orami Web Scraping </span>
+<span style="color:#0F88D8"> 1. Orami Web Scraping </span>
 Web scraping to e-commerce marketplace [Orami](https://www.orami.co.id/) , find the code [here](https://anggoletomi.github.io/orami_web_scraping/orami_web_scraping.html)
 
 ---
