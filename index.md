@@ -15,24 +15,5 @@ Web scraping to e-commerce marketplace [Orami](https://www.orami.co.id/) , find 
 </span></h1>
 
 
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
-
-$${\color{red}apakah \space ini \space merah}$$
-
-$$${\color{red}apakah \space ini \space merah}$$$
-
-$${\color{green}Green}$$
-
-$${\color{lightgreen}Light \space Green}$$
-
-$${\color{blue}Blue}$$
-
-$${\color{lightblue}Light \space Blue}$$
-
-$${\color{black}Black}$$
-
-$${\color{white}White}$$
-
-
 ---
 
