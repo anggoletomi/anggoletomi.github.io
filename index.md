@@ -17,6 +17,8 @@
 
 <img class="center" src="images/box_package_optimization_result.png?raw=true" width="400px">
 
+<center><img class="center" src="images/box_package_optimization_result.png?raw=true" width="400px"></center>
+
 ---
 ## Data Engineer Projects
 
