@@ -12,7 +12,7 @@
 - Business Metrics : Decrease average cost per box
 
 - Result : Details of the result can be found on my Kaggle [here.](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)
-![alt text](https://github.com/anggoletomi/anggoletomi.github.io/blob/[branch]/image.jpg?raw=true)
+<img src="images/box_package_optimization_result.png?raw=true"/>
 
 ---
 ## Data Engineer Projects
