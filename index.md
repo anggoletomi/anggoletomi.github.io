@@ -15,6 +15,18 @@
 
 <center><img src="images/box_package_optimization_result.png?raw=true" width="400px"></center>
 
+#### 2. [Ecommerce Store Market Basket Analysis](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)
+
+- Problem Statement : 
+
+- Dataset : Order Details
+
+- Goal & Objective : 
+
+- Business Metrics : 
+
+- Result : Details of the step and code can be found on my Kaggle <strong>[here.](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)</strong>
+
 ---
 ## Data Engineer Projects
 
