@@ -13,8 +13,8 @@
 
 - Result : Details of the result can be found on my Kaggle [here.](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)
 
-<img src="images/box_package_optimization_result.png?raw=true" width="400px" style="vertical-align:middle"/>
-<img style="float: right;" src="images/box_package_optimization_result.png?raw=true" width="400px">
+<img src="images/box_package_optimization_result.png?raw=true" width="400px" style="vertical-align:middle;"/>
+<img style="float: right;" src="images/box_package_optimization_result.png?raw=true" width="300px">
 
 ---
 ## Data Engineer Projects
