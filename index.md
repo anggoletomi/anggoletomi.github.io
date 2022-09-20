@@ -7,7 +7,7 @@
 
 - Dataset : Order Details, SKU Dimensions, Box Dimensions
 
-- Goal & Objective : Find the most fit box size, on which box size should company spend more, so they can minimize the cost for unused box or a man power pick box randomly.
+- Goal & Objective : Find the most fit box size for each orders, on which box size should company spend more, so they can minimize the cost for unused box or a man power pick box randomly.
 
 - Business Metrics : Decrease average cost per box
 
