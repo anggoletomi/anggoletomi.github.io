@@ -32,7 +32,7 @@
 
 Project Overview : Using data from public API covid19, load the data to MySQL and PostgreSQL with Docker Airflow as the scheduling tools.
 
-Details of the project can be found <strong>[here.]([https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)</strong>(https://anggoletomi.github.io/api_etl_docker_airflow/api_etl_docker_airflow.html)>
+Details of the project can be found <strong>[here.](https://anggoletomi.github.io/api_etl_docker_airflow/api_etl_docker_airflow.html)</strong>
 
 #### 2. [Orami Web Scraping](https://anggoletomi.github.io/orami_web_scraping/orami_web_scraping.html)
 
