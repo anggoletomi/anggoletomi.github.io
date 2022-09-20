@@ -5,7 +5,9 @@
 
 - Problem Statement : Company have a list of box with different dimensions along with the cost of each box. Current situation the operational cost for box has become the pain point. Company wants to know if their current man power for pick and pack activity already pick a correct box to package customer orders, and in an ideal situation how much is the average cost per box should company spend.
 
-- Goal & Objective : Find the correct box size, on which box size should company spend more, so they can minimize the cost for unused box or a man power pick box randomly.
+- Dataset : Order Details, SKU Dimensions, Box Dimensions
+
+- Goal & Objective : Find the most fit box size, on which box size should company spend more, so they can minimize the cost for unused box or a man power pick box randomly.
 
 - Business Metrics : Decrease average cost per box
 
