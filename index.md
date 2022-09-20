@@ -13,7 +13,7 @@
 
 - Result : Details of the step and code can be found on my Kaggle <strong>[here.](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)</strong>
 
-<center><img src="images/box_package_optimization_result.png?raw=true" width="350px"></center>
+<center><img src="images/box_package_optimization_result.png?raw=true" width="400px"></center>
 
 this <strong>bold</strong>
 
