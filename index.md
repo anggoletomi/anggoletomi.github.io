@@ -15,7 +15,7 @@
 
 <center><img src="images/box_package_optimization_result.png?raw=true" width="400px"></center>
 
-#### 2. [Ecommerce Store Market Basket Analysis](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)
+#### 2. [E-Commerce Store Market Basket Analysis](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)
 
 - Problem Statement : 
 
