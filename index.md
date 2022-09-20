@@ -15,8 +15,6 @@
 
 <center><img src="images/box_package_optimization_result.png?raw=true" width="400px"></center>
 
-this <strong>bold</strong>
-
 ---
 ## Data Engineer Projects
 
