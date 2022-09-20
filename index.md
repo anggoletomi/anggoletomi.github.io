@@ -3,7 +3,7 @@
 ## Data Science Projects
 #### 1. [Box Package Size Optimization](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)
 
-- Problem Statement : Company have a list of box with different dimensions along with the cost of each box. Current situation the operational cost for box has become the pain point. Company wants to know if their current man power for pick and pack activity already pick a correct box to package customer orders, and in an ideal situation how much is the average cost per box should company spend.
+- Problem Statement : Company have a list of box with different dimensions along with the cost of each box. Current situation the operational cost for box has become the pain point. Company wants to know if their current box size options are already correct and fit for each orders, so they want the model to decide box size for each orders based on their sales orders history. Company also want to know in an ideal situation how much is the average cost per box should company spend.
 
 - Dataset : Order Details, SKU Dimensions, Box Dimensions
 
