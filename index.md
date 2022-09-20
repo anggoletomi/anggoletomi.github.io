@@ -3,9 +3,13 @@
 ## Data Science Projects
 #### 1. [Package Size Optimization](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)
 
-The goal is for online seller looking for the most fit box dimension that will be use as shipping box to end customers. Find the most efficient box size that isn't too big to take up a lot of unused space or too small to fit multiple products. We will use the sales data of the last few months to determine the right box size.
+- Problem Statement : Company have a list of box with different dimensions along with the cost of each box. Current situation the operational cost for box has become the pain point. Company wants to know if their current man power for pick and pack activity already pick a correct box to package customer orders, and in an ideal situation how much is the average cost per box should company spend.
 
-Details can be found on my kaggle [here.](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)
+- Goal & Objective : Find the correct box size, on which box size should company spend more, so they can minimize the cost for unused box or a man power pick box randomly.
+
+- Business Metrics : Decrease average cost per box
+
+- Result : details of the result can be found on my Kaggle [here.](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization) 
 
 ---
 ## Data Engineer Projects
