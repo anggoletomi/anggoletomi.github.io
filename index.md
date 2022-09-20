@@ -15,6 +15,8 @@
 
 <img style="vertical-align:middle;" src="images/box_package_optimization_result.png?raw=true" width="350px">
 
+<img class="center" src="images/box_package_optimization_result.png?raw=true" width="400px">
+
 ---
 ## Data Engineer Projects
 
