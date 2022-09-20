@@ -7,9 +7,7 @@
 
 - Dataset : Order Details, SKU Dimensions, Box Dimensions
 
-- Goal & Objective : Find the most fit box size for each orders, on which box size should company spend more, so they can minimize the cost for unused box or a man power pick box randomly.
-
-- Business Metrics : Decrease average cost per box
+- Goal & Objective : Find the most fit box size for each orders, on which box size should company spend more, so they can minimize the cost for unused box, and choose the correct size for each orders in the future.
 
 - Result : Details of the step and code can be found on my Kaggle <strong>[here.](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)</strong>
 
