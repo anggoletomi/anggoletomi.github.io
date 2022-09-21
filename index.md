@@ -51,7 +51,7 @@ Define the product url from [Shopee](https://shopee.co.id/) that we want to extr
     Tableau
 </span></h1>
 
-#### [1. Netflix Show Dashboard]([https://www.kaggle.com/code/anggoletomi/package-box-size-optimization](https://public.tableau.com/app/profile/anggoletomi.marlis.putra/viz/NetflixShow_16637470622210/Dashboard1?publish=yes))
+#### [1. Netflix Show Dashboard](https://public.tableau.com/app/profile/anggoletomi.marlis.putra/viz/NetflixShow_16637470622210/Dashboard1?publish=yes))
 
 Netflix is one of the most popular media and video streaming platforms. They have over 8000 movies or tv shows available on their platform, as of mid-2021, they have over 200M Subscribers globally. I made a dashboard to show the Netflix Movies data from Netflix Movies and TV Shows [Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows). This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc. The period of data is based on date movie added to Netflix (January 2008 - September 2021). You can find more visibility of the dashboard on my tableau page [here.](https://public.tableau.com/app/profile/anggoletomi.marlis.putra/viz/NetflixShow_16637470622210/Dashboard1?publish=yes)
 
