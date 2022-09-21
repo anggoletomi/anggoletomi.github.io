@@ -1,7 +1,7 @@
 # Portfolio
 ---
 ## Data Science Projects
-#### 1. [Box Package Size Optimization](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)
+#### [1. Box Package Size Optimization](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)
 
 - Problem Statement : Company have a list of box with different dimensions along with the cost of each box. Current situation the operational cost for box has become the pain point. Company wants to know if their current box size options are already correct and fit for each orders, so they want the model to decide box size for each orders based on their sales orders history. Company also want to know in an ideal situation how much is the average cost per box should company spend.
 
@@ -13,7 +13,7 @@
 
 <center><img src="images/box_package_optimization_result.png?raw=true" width="400px"></center>
 
-#### 2. [E-Commerce Store Market Basket Analysis](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)
+#### [2. E-Commerce Store Market Basket Analysis](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)
 
 - Problem Statement : 
 
@@ -28,7 +28,7 @@
 ---
 ## Data Engineer Projects
 
-#### 1. [API ETL Docker Airflow - Covid Data](https://anggoletomi.github.io/md_pages/api_etl_pipeline_docker_airflow)
+#### [1. API ETL Docker Airflow - Covid Data](https://anggoletomi.github.io/md_pages/api_etl_pipeline_docker_airflow)
 
 Project Overview : Using data from public API covid19, load the data to MySQL and PostgreSQL with Docker Airflow as the scheduling tools.
 
@@ -37,11 +37,11 @@ Details of the project can be found <strong>[here.](https://anggoletomi.github.i
 <center><img src="images/api_etl_docker_airflow_images/merge_001.jpg?raw=true" width="800px"></center>
 
 
-#### 2. [Orami Web Scraping](https://anggoletomi.github.io/orami_web_scraping/orami_web_scraping.html)
+#### [2. Orami Web Scraping](https://anggoletomi.github.io/orami_web_scraping/orami_web_scraping.html)
 
 Web scraping to e-commerce marketplace [Orami](https://www.orami.co.id/) , find the code [here.](https://anggoletomi.github.io/orami_web_scraping/orami_web_scraping.html)
 
-#### 3. [Get Shopee Product Ratings](https://anggoletomi.github.io/get_rating_shopee/get_rating_shopee.html)
+#### [3. Get Shopee Product Ratings](https://anggoletomi.github.io/get_rating_shopee/get_rating_shopee.html)
 
 Define the product url from [Shopee](https://shopee.co.id/) that we want to extract the comment and ratings, and the code [here](https://anggoletomi.github.io/get_rating_shopee/get_rating_shopee.html) will create clean table for it.
 
@@ -51,8 +51,9 @@ Define the product url from [Shopee](https://shopee.co.id/) that we want to extr
     Tableau
 </span></h1>
 
-<a href="https://public.tableau.com/app/profile/anggoletomi.marlis.putra/viz/NetflixShow_16637470622210/Dashboard1?publish=yes" target="_blank">1. Netflix Show Dashboard</a>
-Netflix is one of the most popular media and video streaming platforms. They have over 8000 movies or tv shows available on their platform, as of mid-2021, they have over 200M Subscribers globally. I made a dashboard to show the Netflix Movies data from Netflix Movies and TV Shows [Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows). This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc. The period of data is based on date movie added to Netflix (January 2008 - September 2021). Please find more visibility of the dashboard on my tableau page [here.](https://public.tableau.com/app/profile/anggoletomi.marlis.putra/viz/NetflixShow_16637470622210/Dashboard1?publish=yes)
+#### [1. Netflix Show Dashboard]([https://www.kaggle.com/code/anggoletomi/package-box-size-optimization](https://public.tableau.com/app/profile/anggoletomi.marlis.putra/viz/NetflixShow_16637470622210/Dashboard1?publish=yes))
+
+Netflix is one of the most popular media and video streaming platforms. They have over 8000 movies or tv shows available on their platform, as of mid-2021, they have over 200M Subscribers globally. I made a dashboard to show the Netflix Movies data from Netflix Movies and TV Shows [Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows). This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc. The period of data is based on date movie added to Netflix (January 2008 - September 2021). You can find more visibility of the dashboard on my tableau page [here.](https://public.tableau.com/app/profile/anggoletomi.marlis.putra/viz/NetflixShow_16637470622210/Dashboard1?publish=yes)
 
 [<center><img class="img-modal-src" src="images/netflix_show_dashboard.png?raw=true" width="600px"></center>](https://public.tableau.com/app/profile/anggoletomi.marlis.putra/viz/NetflixShow_16637470622210/Dashboard1?publish=yes)
 
