@@ -28,11 +28,11 @@
 ---
 ## Data Engineer Projects
 
-#### 1. [API ETL Docker Airflow - Covid Data](https://anggoletomi.github.io/api_etl_docker_airflow/api_etl_docker_airflow.html)
+#### 1. [API ETL Docker Airflow - Covid Data](https://anggoletomi.github.io/md_pages/api_etl_pipeline_docker_airflow)
 
 Project Overview : Using data from public API covid19, load the data to MySQL and PostgreSQL with Docker Airflow as the scheduling tools.
 
-Details of the project can be found <strong>[here.](https://anggoletomi.github.io/api_etl_docker_airflow/api_etl_docker_airflow.html)</strong>
+Details of the project can be found <strong>[here.](https://anggoletomi.github.io/md_pages/api_etl_pipeline_docker_airflow)</strong>
 
 <center><img src="images/api_etl_docker_airflow_images/merge_001.jpg?raw=true" width="800px"></center>
 
