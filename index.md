@@ -34,9 +34,8 @@ Project Overview : Using data from public API covid19, load the data to MySQL an
 
 Details of the project can be found <strong>[here.](https://anggoletomi.github.io/api_etl_docker_airflow/api_etl_docker_airflow.html)</strong>
 
-<center><img src="images/api_etl_docker_airflow_images/merge_001.jpg?raw=true" width="600px"></center>
+<center><img src="images/api_etl_docker_airflow_images/merge_001.jpg?raw=true" width="800px"></center>
 
-a
 
 #### 2. [Orami Web Scraping](https://anggoletomi.github.io/orami_web_scraping/orami_web_scraping.html)
 
