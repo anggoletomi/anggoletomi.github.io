@@ -52,7 +52,7 @@ Define the product url from [Shopee](https://shopee.co.id/) that we want to extr
 </span></h1>
 
 <a href="https://public.tableau.com/app/profile/anggoletomi.marlis.putra/viz/NetflixShow_16637470622210/Dashboard1?publish=yes" target="_blank">1. Netflix Show Dashboard</a>
-I made a dashboard to show the Netflix Movies data from Netflix Movies and TV Shows [Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows) . Please find the tableau page [here.](https://public.tableau.com/app/profile/anggoletomi.marlis.putra/viz/NetflixShow_16637470622210/Dashboard1?publish=yes)
+I made a dashboard to show the Netflix Movies data from Netflix Movies and TV Shows [Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows) . Please find the details on my tableau page [here.](https://public.tableau.com/app/profile/anggoletomi.marlis.putra/viz/NetflixShow_16637470622210/Dashboard1?publish=yes)
 
 <center><img class="img-modal-src" src="images/netflix_show_dashboard.png?raw=true" width="700px" alt="Netflix Show Dashboard"></center>
 
