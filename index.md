@@ -47,7 +47,7 @@ Define the product url from [Shopee](https://shopee.co.id/) that we want to extr
 
 ---
 ## Data Visualization
-<h1 align="center"><span style="color:#FFFFFF;font-weight:700;font-size:15px">
+<h1 align="center"><span style="color:#FFFFFF;font-weight:1000;font-size:20px">
     Tableau
 </span></h1>
 
