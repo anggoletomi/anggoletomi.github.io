@@ -37,9 +37,9 @@ Details of the project can be found <strong>[here.](https://anggoletomi.github.i
 <center><img src="images/api_etl_docker_airflow_images/merge_001.jpg?raw=true" width="800px"></center>
 
 
-#### [2. Orami Web Scraping](https://anggoletomi.github.io/orami_web_scraping/orami_web_scraping.html)
+#### [2. Orami Web Scraping - ETL](https://anggoletomi.github.io/orami_web_scraping/orami_web_scraping.html)
 
-Web scraping to e-commerce marketplace [Orami](https://www.orami.co.id/) , find the code [here.](https://anggoletomi.github.io/orami_web_scraping/orami_web_scraping.html)
+Web scraping to e-commerce marketplace [Orami](https://www.orami.co.id/) and store to postgresql database, find the code [here.](https://anggoletomi.github.io/orami_web_scraping/orami_web_scraping.html)
 
 #### [3. Get Shopee Product Ratings](https://anggoletomi.github.io/get_rating_shopee/get_rating_shopee.html)
 
