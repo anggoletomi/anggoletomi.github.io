@@ -43,7 +43,7 @@ Web scraping to e-commerce marketplace [Orami](https://www.orami.co.id/) and sto
 
 Script : [here.](https://anggoletomi.github.io/orami_web_scraping/orami_web_scraping.html)
 
-#### [3. Get Shopee Product Ratings](https://anggoletomi.github.io/get_rating_shopee/get_rating_shopee.html)
+#### [3. Get Shopee Product Ratings - ETL](https://anggoletomi.github.io/get_rating_shopee/get_rating_shopee.html)
 
 Define the product url from [Shopee](https://shopee.co.id/) that we want to extract the comment and ratings, transform into clean table and load to database.
 
