@@ -39,11 +39,15 @@ Details of the project can be found <strong>[here.](https://anggoletomi.github.i
 
 #### [2. Orami Web Scraping - ETL](https://anggoletomi.github.io/orami_web_scraping/orami_web_scraping.html)
 
-Web scraping to e-commerce marketplace [Orami](https://www.orami.co.id/) and store to postgresql database, find the code [here.](https://anggoletomi.github.io/orami_web_scraping/orami_web_scraping.html)
+Web scraping to e-commerce marketplace [Orami](https://www.orami.co.id/) and store to postgresql database.
+
+Script : [here.](https://anggoletomi.github.io/orami_web_scraping/orami_web_scraping.html)
 
 #### [3. Get Shopee Product Ratings](https://anggoletomi.github.io/get_rating_shopee/get_rating_shopee.html)
 
-Define the product url from [Shopee](https://shopee.co.id/) that we want to extract the comment and ratings, and the code [here](https://anggoletomi.github.io/get_rating_shopee/get_rating_shopee.html) will create clean table for it.
+Define the product url from [Shopee](https://shopee.co.id/) that we want to extract the comment and ratings, transform into clean table and load to database.
+
+Script : [here](https://anggoletomi.github.io/get_rating_shopee/get_rating_shopee.html)
 
 ---
 ## Data Visualization
