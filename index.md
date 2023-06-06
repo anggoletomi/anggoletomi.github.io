@@ -6,14 +6,12 @@ Click on the links below to explore the projects and see more details.
 <span style="font-size: smaller;">Explore this interactive dashboard showcasing E-commerce stores data, created using Looker Studio and connected to a BigQuery database.</span>
 
 ---
-## Data Science Projects
+## Python Script
 #### [1. Box Package Size Optimization](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)
 <span style="font-size: smaller;">Discover this project on Kaggle where I have developed a Python script to optimize the size of package boxes.</span>
 
 #### [2. E-Commerce Store Market Basket Analysis]()
 <span style="font-size: smaller;">Explore this project on Kaggle where I have implemented a Python script for market basket analysis.</span>
-
-## Data Engineer Projects
 
 #### [1. API ETL Docker Airflow - Covid Data](https://anggoletomi.github.io/md_pages/api_etl_pipeline_docker_airflow)
 
@@ -22,7 +20,6 @@ Project Overview : Using data from public API covid19, load the data to MySQL an
 Details of the project can be found <strong>[here.](https://anggoletomi.github.io/md_pages/api_etl_pipeline_docker_airflow)</strong>
 
 <center><img src="images/api_etl_docker_airflow_images/merge_001.jpg?raw=true" width="800px"></center>
-
 
 #### [2. Orami Web Scraping - ETL](https://anggoletomi.github.io/orami_web_scraping/orami_web_scraping.html)
 
