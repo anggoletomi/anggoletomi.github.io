@@ -3,10 +3,6 @@
 ## Data Visualization
 Click on the links below to explore the projects and see more details.
 #### [1. Looker Studio : E-commerce Store Dashboard](https://lookerstudio.google.com/reporting/0a73cc2a-443b-4c7d-977c-193bbf1c8ac4)
-<small>Explore this interactive dashboard showcasing multiple E-commerce Stores data, created using Looker Studio and connected to a BigQuery database.</small>
-#### [2. Power BI : E-commerce Store Dashboard](https://lookerstudio.google.com/reporting/0a73cc2a-443b-4c7d-977c-193bbf1c8ac4)
-Explore this interactive dashboard showcasing multiple E-commerce Stores data, created using Looker Studio and connected to a BigQuery database.
-#### [3. Power BI : E-commerce Store Dashboard](https://lookerstudio.google.com/reporting/0a73cc2a-443b-4c7d-977c-193bbf1c8ac4)
 <span style="font-size: smaller;">Explore this interactive dashboard showcasing multiple E-commerce Stores data, created using Looker Studio and connected to a BigQuery database.</span>
 
 ## Data Science Projects
