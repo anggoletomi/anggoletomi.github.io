@@ -3,7 +3,7 @@
 ## Data Visualization
 Click on the links below to explore the projects and see more details.
 #### [1. Looker Studio : E-commerce Store Dashboard](https://lookerstudio.google.com/reporting/0a73cc2a-443b-4c7d-977c-193bbf1c8ac4)
-<span style="font-size: smaller;">Explore this interactive dashboard showcasing multiple E-commerce Stores data, created using Looker Studio and connected to a BigQuery database.</span>
+<span style="font-size: smaller;">Explore this interactive dashboard showcasing E-commerce stores data, created using Looker Studio and connected to a BigQuery database.</span>
 
 ## Data Science Projects
 #### [1. Box Package Size Optimization](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)
