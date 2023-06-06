@@ -1,11 +1,11 @@
 title: Anggoletomi Marlis Putra # your name (or website title) here
 logo: "/images/logo-avatar.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+description: | # your text below (remove <br> elements if you don't need line breaks)
   Welcome to my GitHub Page!
   <br><br>
-  I post my data related project here.
+  Discover my data projects here, and should anything pique your interest, don't hesitate to connect with me anytime.
   <br><br>
-  <img src="/images/giphy.gif?raw=true" width="100px">
+  <img src="/images/giphy.gif?raw=true" width="200px">
   
   <style>
     .social {
@@ -40,11 +40,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   </div>
   
   <div style="clear:both"></div>
-
-  <br />
-  <span style="color:white; font-weight:300; font-5ize:1px; font-style: italic">
-    Click on one of the pages above to see more details.
-  </span>
   
 theme: jekyll-theme-minimal
 # remote_theme: "godalming123/minimal"
