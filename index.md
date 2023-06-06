@@ -1,17 +1,13 @@
 # Portfolio
 ---
+## Data Visualization
+Click on the links below to explore the projects and see more details.
+#### [1. Looker Studio : E-commerce Store Dashboard](https://lookerstudio.google.com/reporting/0a73cc2a-443b-4c7d-977c-193bbf1c8ac4)
+Explore this interactive dashboard of an E-commerce Store data made using Looker Studio.
+
 ## Data Science Projects
 #### [1. Box Package Size Optimization](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)
-
-- Problem Statement : Company have a list of box with different dimensions along with the cost of each box. Current situation the operational cost for box has become the pain point. Company wants to know if their current box size options are already correct and fit for each orders, so they want the model to decide box size for each orders based on their sales orders history. Company also want to know in an ideal situation how much is the average cost per box should company spend.
-
-- Dataset : Order Details, SKU Dimensions, Box Dimensions
-
-- Goal & Objective : Find the most fit box size for each orders, on which box size should company spend more, so they can minimize the cost for unused box, and choose the correct size for each orders in the future.
-
-- Result : Details of the step and code can be found on my Kaggle <strong>[here.](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)</strong>
-
-<center><img src="images/box_package_optimization_result.png?raw=true" width="400px"></center>
+Check out this project on Kaggle where I worked on optimizing the size of package boxes.
 
 #### [2. E-Commerce Store Market Basket Analysis](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)
 
@@ -48,18 +44,6 @@ Script : [here.](https://anggoletomi.github.io/orami_web_scraping/orami_web_scra
 Define the product url from [Shopee](https://shopee.co.id/) that we want to extract the comment and ratings, transform into clean table and load to database.
 
 Script : [here](https://anggoletomi.github.io/get_rating_shopee/get_rating_shopee.html)
-
----
-## Data Visualization
-<h1 align="center"><span style="color:#FFFFFF;font-weight:1000;font-size:30px">
-    Tableau
-</span></h1>
-
-#### [1. Netflix Show Dashboard](https://public.tableau.com/app/profile/anggoletomi.marlis.putra/viz/NetflixShow_16637470622210/Dashboard1?publish=yes)
-
-Netflix is one of the most popular media and video streaming platforms. They have over 8000 movies or tv shows available on their platform, as of mid-2021, they have over 200M Subscribers globally. I made a dashboard to show the Netflix Movies data from Netflix Movies and TV Shows [Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows). This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc. The period of data based on date movie added to Netflix (January 2008 - September 2021). You can find more visibility of the dashboard on my Tableau page [here.](https://public.tableau.com/app/profile/anggoletomi.marlis.putra/viz/NetflixShow_16637470622210/Dashboard1?publish=yes)
-
-[<center><img class="img-modal-src" src="images/netflix_show_dashboard.png?raw=true" width="600px"></center>](https://public.tableau.com/app/profile/anggoletomi.marlis.putra/viz/NetflixShow_16637470622210/Dashboard1?publish=yes)
 
 ---
 
