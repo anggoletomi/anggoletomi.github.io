@@ -5,23 +5,14 @@ Click on the links below to explore the projects and see more details.
 #### [1. Looker Studio : E-commerce Store Dashboard](https://lookerstudio.google.com/reporting/0a73cc2a-443b-4c7d-977c-193bbf1c8ac4)
 <span style="font-size: smaller;">Explore this interactive dashboard showcasing E-commerce stores data, created using Looker Studio and connected to a BigQuery database.</span>
 
+---
 ## Data Science Projects
 #### [1. Box Package Size Optimization](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)
-Check out this project on Kaggle where I worked on optimizing the size of package boxes.
+<span style="font-size: smaller;">Discover this project on Kaggle where I have developed a Python script to optimize the size of package boxes.</span>
 
-#### [2. E-Commerce Store Market Basket Analysis](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)
+#### [2. E-Commerce Store Market Basket Analysis]()
+<span style="font-size: smaller;">Explore this project on Kaggle where I have implemented a Python script for market basket analysis.</span>
 
-- Problem Statement : 
-
-- Dataset : Order Details
-
-- Goal & Objective : 
-
-- Business Metrics : 
-
-- Result : Details of the step and code can be found on my Kaggle <strong>[here.](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)</strong>
-
----
 ## Data Engineer Projects
 
 #### [1. API ETL Docker Airflow - Covid Data](https://anggoletomi.github.io/md_pages/api_etl_pipeline_docker_airflow)
