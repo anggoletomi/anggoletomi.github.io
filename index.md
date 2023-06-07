@@ -8,7 +8,8 @@
 ---
 ## Python Script
 <span style="font-size: smaller;"><i>Click links on the title below to explore the projects and see more details.</i></span>
-#### [1. Box Package Size Optimization](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)
+#### [1. Smart Sizing: Packaging Efficiency Enhancement](https://www.kaggle.com/code/anggoletomi/package-box-size-optimization)
+<span style="font-size: smaller;">Intelligent box sizing for cost reduction and a data-driven box size selection</span>
 #### [2. E-Commerce Store Market Basket Analysis]()
 
 ---
