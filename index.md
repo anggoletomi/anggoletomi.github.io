@@ -11,5 +11,10 @@
 #### <a href="https://www.kaggle.com/code/anggoletomi/package-box-size-optimization" target="_blank">1. Smart Sizing: Packaging Efficiency Enhancement</a>
 <span style="font-size: smaller;">Intelligent box sizing for cost reduction and a data-driven box size selection. Click <a href="https://www.kaggle.com/code/anggoletomi/package-box-size-optimization" target="_blank" style="color:white; text-decoration:underline; font-weight:bold;"><em>here.</em></a></span>
 
+#### <a href="https://www.kaggle.com/code/anggoletomi/package-box-size-optimization" target="_blank">2. The Magic Behind 'Recommended for You'</a>
+<span style="font-size: smaller;">Let's step into the shoes of a Data Scientist: Unraveling the magic behind 'Recommended for You'. Click <a href="https://www.kaggle.com/code/anggoletomi/package-box-size-optimization" target="_blank" style="color:white; text-decoration:underline; font-weight:bold;"><em>here.</em></a></span>
+
+
+
 ---
 
