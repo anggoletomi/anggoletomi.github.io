@@ -11,8 +11,8 @@
 #### <a href="https://www.kaggle.com/code/anggoletomi/package-box-size-optimization" target="_blank">1. Smart Sizing: Packaging Efficiency Enhancement</a>
 <span style="font-size: smaller;">Intelligent box sizing for cost reduction and a data-driven box size selection. Click <a href="https://www.kaggle.com/code/anggoletomi/package-box-size-optimization" target="_blank" style="color:white; text-decoration:underline; font-weight:bold;"><em>here.</em></a></span>
 
-#### <a href="https://www.kaggle.com/code/anggoletomi/package-box-size-optimization" target="_blank">2. Leveraging Market Basket Analysis: Unearthing Hidden Gems in Your Sales Data</a>
-<span style="font-size: smaller;">A data-driven approach uncovers hidden associations among your products, revealing which items are frequently bought together, or bought more than 1. Click <a href="https://www.kaggle.com/code/anggoletomi/package-box-size-optimization" target="_blank" style="color:white; text-decoration:underline; font-weight:bold;"><em>here.</em></a></span>
+#### <a href="https://www.kaggle.com/code/anggoletomi/unearthing-hidden-gems-in-your-sales-data" target="_blank">2. Leveraging Market Basket Analysis: Unearthing Hidden Gems in Your Sales Data</a>
+<span style="font-size: smaller;">A data-driven approach uncovers hidden associations among your products, revealing which items are frequently bought together, or bought more than one. Click <a href="https://www.kaggle.com/code/anggoletomi/unearthing-hidden-gems-in-your-sales-data" target="_blank" style="color:white; text-decoration:underline; font-weight:bold;"><em>here.</em></a></span>
 
 
 
