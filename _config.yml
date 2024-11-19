@@ -1,6 +1,6 @@
-title: Anggoletomi Marlis Putra # your name (or website title) here
-logo: "/images/logo-avatar.png?raw=true" # your photo (or logo) here
-description: | # your text below (remove <br> elements if you don't need line breaks)
+title: Anggoletomi Marlis Putra
+logo: "/images/logo-avatar.png?raw=true"
+description: | 
   Welcome to my GitHub Page!
   <br><br>
   Explore the collection of my data-driven projects. Should any of them pique your interest, don't hesitate to reach out to me anytime.
@@ -41,5 +41,4 @@ description: | # your text below (remove <br> elements if you don't need line br
   <div style="clear:both"></div>
   
 theme: jekyll-theme-minimal
-# remote_theme: "godalming123/minimal"
-google_analytics: G-0751HHWPV8 # your Google Analytics tracking ID here
+google_analytics: G-0751HHWPV8

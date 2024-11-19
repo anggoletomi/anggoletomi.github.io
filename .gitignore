@@ -1,0 +1,80 @@
+# Jekyll generated folders
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# IntelliJ IDEA
+.idea/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Vim
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+build/
+
+# npm and yarn lock files
+package-lock.json
+yarn.lock
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env/
+env/
+
+# Bundler dependency directory
+.bundle/
+
+# Temporary files
+*.gem
+.cache/
+npm-debug.log*
+.tmp/
+
+# Ignore merge conflict files
+*.orig
+
+# Ignore git patch files
+*.patch
+
+# Backup files
+*~
+
+# Output from compression tools
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Environment configuration files (if sensitive)
+.env
+
+# Ruby dependency files
+Gemfile
+Gemfile.lock
