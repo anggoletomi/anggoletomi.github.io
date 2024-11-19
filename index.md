@@ -1,20 +1,28 @@
-# Portfolio
+# Projects
 ---
-## Data Visualization
-<span style="font-size: smaller;"><i>Click links on the title below to explore the projects and see more details.</i></span>
-#### <a href="https://lookerstudio.google.com/reporting/0a73cc2a-443b-4c7d-977c-193bbf1c8ac4" target="_blank">1. Looker Studio : E-commerce Store Dashboard</a>
-<span style="font-size: smaller;">Explore this interactive dashboard showcasing E-commerce stores data, created using Looker Studio and connected to a BigQuery database. Click <a href="https://lookerstudio.google.com/reporting/0a73cc2a-443b-4c7d-977c-193bbf1c8ac4" target="_blank" style="color:white; text-decoration:underline; font-weight:bold;"><em>here.</em></a></span>
 
----
-## Python Script
-<span style="font-size: smaller;"><i>Click links on the title below to explore the projects and see more details.</i></span>
-#### <a href="https://www.kaggle.com/code/anggoletomi/package-box-size-optimization" target="_blank">1. Smart Sizing: Packaging Efficiency Enhancement</a>
-<span style="font-size: smaller;">Intelligent box sizing for cost reduction and a data-driven box size selection. Click <a href="https://www.kaggle.com/code/anggoletomi/package-box-size-optimization" target="_blank" style="color:white; text-decoration:underline; font-weight:bold;"><em>here.</em></a></span>
+## <a href="https://lookerstudio.google.com/reporting/0a73cc2a-443b-4c7d-977c-193bbf1c8ac4" target="_blank">1. E-commerce Store Dashboard</a>
+This interactive dashboard showcases consolidated data from multiple E-commerce platforms like Tokopedia, Shopee, and Lazada. It provides a unified performance view using <span style="color:#e67e22; font-weight:bold;">Google Looker Studio</span>. The dashboard is fully interactive, allowing users to filter by dimensions, adjust time periods (daily, weekly, monthly, quarterly, yearly), and focus on specific metrics for actionable insights.
 
-#### <a href="https://www.kaggle.com/code/anggoletomi/unearthing-hidden-gems-in-your-sales-data" target="_blank">2. Leveraging Market Basket Analysis: Unearthing Hidden Gems in Your Sales Data</a>
-<span style="font-size: smaller;">A data-driven approach uncovers hidden associations among your products, revealing which items are frequently bought together, or bought more than one. Click <a href="https://www.kaggle.com/code/anggoletomi/unearthing-hidden-gems-in-your-sales-data" target="_blank" style="color:white; text-decoration:underline; font-weight:bold;"><em>here.</em></a></span>
+<span style="color:#3498db; font-weight:bold;">Features:</span>
+- <span style="color:#3498db; font-weight:bold;">Business Overview:</span> Track key store-level performance metrics such as revenue, visitors, conversion rates, average order value, and other key indicators essential for evaluating overall performance.
+- <span style="color:#3498db; font-weight:bold;">Inventory Report:</span> Monitor product-level metrics such as inventory value, aging, and expired/damaged stock.
+- <span style="color:#3498db; font-weight:bold;">Case Management:</span> Evaluate customer service team performance in handling customer issues.
 
-
+> **🔗 Access the Dashboard**: <a href="https://lookerstudio.google.com/reporting/0a73cc2a-443b-4c7d-977c-193bbf1c8ac4" target="_blank">Click here.</a>
 
 ---
 
+## <a href="https://www.kaggle.com/code/anggoletomi/smart-sizing-packaging-efficiency-enhancement?scriptVersionId=132649052" target="_blank">2. Smart Sizing: Packaging Efficiency Enhancement</a>
+This Python-based project, hosted on Kaggle, optimizes packaging processes to reduce costs and improve efficiency. By analyzing product dimensions and shipping data, it identifies optimal box sizes, minimizing wasted space and materials. This data-driven approach not only cuts costs but also enhances sustainability by reducing packaging waste.
+
+> **🔗 Access the Project on Kaggle**: <a href="https://www.kaggle.com/code/anggoletomi/smart-sizing-packaging-efficiency-enhancement?scriptVersionId=132649052" target="_blank">Click here.</a>
+
+---
+
+## <a href="https://www.kaggle.com/code/anggoletomi/unearthing-hidden-gems-in-your-sales-data" target="_blank">3. Leveraging Market Basket Analysis: Unearthing Hidden Gems in Your Sales Data</a>
+This Python-based project, hosted on Kaggle, applies Market Basket Analysis to uncover hidden associations among products. By analyzing transaction data, it identifies frequently bought-together items and repeat purchases, providing actionable insights to optimize cross-selling strategies and improve inventory management.
+
+> **🔗 Access the Project on Kaggle:** <a href="https://www.kaggle.com/code/anggoletomi/unearthing-hidden-gems-in-your-sales-data" target="_blank">Click here.</a>
+
+---
