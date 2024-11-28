@@ -2,18 +2,15 @@
 ---
 
 ## <a href="https://lookerstudio.google.com/reporting/6a1b2785-da92-4bd6-aabe-1f7763c0d257" target="_blank">1. E-Commerce Financial Performance Dashboard</a>  
-This dashboard demonstrates consolidated financial data from Shopee's e-commerce platform using <span style="color:#f1c40f; font-weight:bold;">Google Looker Studio</span>. It provides detailed insights into income, expenses, and profitability, enabling users to analyze financial performance effectively. <span style="color:#f1c40f; font-weight:bold;">BigQuery</span> is used as the database, while <span style="color:#f1c40f; font-weight:bold;">Python</span> and <span style="color:#f1c40f; font-weight:bold;">SQL</span> are utilized for the ETL process, including data extraction, transformation, and modeling. For an overview of the general workflow, please refer to the <a href="https://github.com/anggoletomi/bi_projects/blob/main/README.md" target="_blank">project README file</a>.
+This dashboard demonstrates consolidated financial data from Shopee's e-commerce platform using <span style="color:#f1c40f; font-weight:bold;">Google Looker Studio</span>. It provides detailed insights into income, expenses, and profitability, enabling users to analyze financial performance effectively. <span style="color:#f1c40f; font-weight:bold;">BigQuery</span> is used as the database, while <span style="color:#f1c40f; font-weight:bold;">Python</span> and <span style="color:#f1c40f; font-weight:bold;">SQL</span> are utilized for the ETL process, including data extraction, transformation, and modeling. For an overview of the general workflow, please refer to the <a href="https://github.com/anggoletomi/commerce_data/blob/main/README.md" target="_blank">project README file</a>.
 
 
 <span style="font-size: 1.2em; color:#3498db; font-weight:bold;">✨ Features:</span>  
 - <span style="color:#3498db; font-weight:bold;">Journal Report:</span> Detailed transactional data covering income and expenses on each category (e.g., shipping, commissions, refunds, etc).
-- <span style="color:#3498db; font-weight:bold;">Journal Dashboard:</span> Visualize income and expense trends across multiple stores over time and highlighting expense ratio compared to total income.  
-
-<!-- > **🔗 Access the Dashboard**: <a href="https://lookerstudio.google.com/reporting/e47b2baa-001a-4de9-84d4-635b53891ea4/page/VgD/edit" target="_blank">Click here.</a>  
-> **🔗 Source Code**: <a href="https://github.com/anggoletomi/bi_projects" target="_blank">GitHub Repository.</a> (Main Code : main_sp_journal_report.py) -->
+- <span style="color:#3498db; font-weight:bold;">Journal Dashboard:</span> Visualize income and expense trends across multiple stores over time and highlighting expense ratio compared to total income.
 
 <a href="https://lookerstudio.google.com/reporting/6a1b2785-da92-4bd6-aabe-1f7763c0d257" target="_blank"><b>🔗 Access the Dashboard</b></a>  
-<a href="https://github.com/anggoletomi/bi_projects/tree/main/rc_report" target="_blank"><b>🔗 Source Code</b></a> *(main code: main_sp_journal_report.py)*
+<a href="https://github.com/anggoletomi/commerce_data" target="_blank"><b>🔗 Source Code</b></a> *(main code: report_rc\report_sp_journal.py)*
 
 ---
 
