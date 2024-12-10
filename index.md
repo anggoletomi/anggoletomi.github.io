@@ -20,7 +20,7 @@ This dashboard demonstrates consolidated financial data from Shopee's e-commerce
 - <span style="color:#3498db; font-weight:bold;">Journal Report:</span> Detailed transactional data covering income and expenses on each category (e.g., shipping, commissions, refunds, etc).
 - <span style="color:#3498db; font-weight:bold;">Journal Dashboard:</span> Visualize income and expense trends across multiple stores over time and highlighting expense ratio compared to total income.
 
-<a href="https://lookerstudio.google.com/reporting/6a1b2785-da92-4bd6-aabe-1f7763c0d257" target="_blank"><b>📊 Access the Dashboard</b></a><br>
+<a href="https://lookerstudio.google.com/reporting/6a1b2785-da92-4bd6-aabe-1f7763c0d257" target="_blank"><b>📊 Looker Studio - Access the Dashboard</b></a><br>
 <a href="https://github.com/anggoletomi/commerce_data" target="_blank"><b>🖥️ Source Code</b></a> *(main code: report_rc\report_sp_journal.py)*
 
 ---
@@ -33,7 +33,7 @@ This interactive dashboard showcases consolidated data from multiple E-commerce 
 - <span style="color:#3498db; font-weight:bold;">Inventory Report:</span> Monitor product-level metrics such as inventory value, aging, expired and damaged stock.
 - <span style="color:#3498db; font-weight:bold;">Case Management:</span> Evaluate customer service team performance in handling customer issues.
 
-<a href="https://lookerstudio.google.com/reporting/0a73cc2a-443b-4c7d-977c-193bbf1c8ac4" target="_blank"><b>📊 Access the Dashboard</b></a>  
+<a href="https://lookerstudio.google.com/reporting/0a73cc2a-443b-4c7d-977c-193bbf1c8ac4" target="_blank"><b>📊 Looker Studio - Access the Dashboard</b></a>  
 
 ---
 
