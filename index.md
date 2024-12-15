@@ -7,12 +7,18 @@ This is an A customizable AI chatbot designed to showcase personal details, skil
 <a href="https://know-me-ai-bot.onrender.com/" target="_blank"><b>🤖 Chat with My Bot Assistant</b></a><br>
 <a href="https://github.com/anggoletomi/know-me-ai-bot" target="_blank"><b>🖥️ Git - Source Code</b></a>
 
-## <a href="https://github.com/anggoletomi/generalized-recommendation-system" target="_blank">2. Generalized Recommendation System</a>
+## <a href="https://github.com/anggoletomi/coingecko_crypto_api_data" target="_blank">2. Cryptocurrency Market Data</a>
+Fetch market data for the top 100 cryptocurrencies using the <span style="color:#f1c40f; font-weight:bold;">CoinGecko</span> API and visualize insights with <span style="color:#f1c40f; font-weight:bold;">Tableau</span>
+
+<a href="https://public.tableau.com/views/CryptoCoinGecko/CoinGeckoCryptocurrency?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank"><b>📊 Tableau - Access the Dashboard</b></a><br>
+<a href="https://github.com/anggoletomi/coingecko_crypto_api_data" target="_blank"><b>🖥️ Git - Source Code</b></a>
+
+## <a href="https://github.com/anggoletomi/generalized-recommendation-system" target="_blank">3. Generalized Recommendation System</a>
 This is an <span style="color:#f1c40f; font-weight:bold;">ongoing project</span> focused on building a flexible recommendation system capable of handling various datasets using user-item interaction data.
 
 <a href="https://github.com/anggoletomi/generalized-recommendation-system" target="_blank"><b>🖥️ Git - Source Code</b></a>
 
-## <a href="https://lookerstudio.google.com/reporting/6a1b2785-da92-4bd6-aabe-1f7763c0d257" target="_blank">3. E-Commerce Financial Performance Dashboard</a>  
+## <a href="https://lookerstudio.google.com/reporting/6a1b2785-da92-4bd6-aabe-1f7763c0d257" target="_blank">4. E-Commerce Financial Performance Dashboard</a>  
 This dashboard demonstrates consolidated financial data from Shopee's e-commerce platform using <span style="color:#f1c40f; font-weight:bold;">Google Looker Studio</span>. It provides detailed insights into income, expenses, and profitability, enabling users to analyze financial performance effectively. <span style="color:#f1c40f; font-weight:bold;">BigQuery</span> is used as the database, while <span style="color:#f1c40f; font-weight:bold;">Python</span> and <span style="color:#f1c40f; font-weight:bold;">SQL</span> are utilized for the ETL process, including data extraction, transformation, and modeling. For an overview of the general workflow, please refer to the <a href="https://github.com/anggoletomi/commerce_data/blob/main/README.md" target="_blank">project README file</a>.
 
 
@@ -25,7 +31,7 @@ This dashboard demonstrates consolidated financial data from Shopee's e-commerce
 
 ---
 
-## <a href="https://lookerstudio.google.com/reporting/0a73cc2a-443b-4c7d-977c-193bbf1c8ac4" target="_blank">4. E-commerce Store Metrics Dashboard</a>
+## <a href="https://lookerstudio.google.com/reporting/0a73cc2a-443b-4c7d-977c-193bbf1c8ac4" target="_blank">5. E-commerce Store Metrics Dashboard</a>
 This interactive dashboard showcases consolidated data from multiple E-commerce platforms like Tokopedia, Shopee, and Lazada. It provides a unified performance view using <span style="color:#f1c40f; font-weight:bold;">Google Looker Studio</span>. The dashboard is fully interactive, allowing users to filter by dimensions, adjust time periods (daily to yearly), and focus on specific metrics for actionable insights.
 
 <span style="font-size: 1.2em; color:#3498db; font-weight:bold;">✨ Features:</span>
@@ -37,14 +43,14 @@ This interactive dashboard showcases consolidated data from multiple E-commerce 
 
 ---
 
-## <a href="https://www.kaggle.com/code/anggoletomi/smart-sizing-packaging-efficiency-enhancement" target="_blank">5. Smart Sizing: Packaging Efficiency Enhancement</a>
+## <a href="https://www.kaggle.com/code/anggoletomi/smart-sizing-packaging-efficiency-enhancement" target="_blank">6. Smart Sizing: Packaging Efficiency Enhancement</a>
 This Python-based project, hosted on Kaggle, optimizes packaging processes to reduce costs and improve efficiency. By analyzing product dimensions and shipping data, it identifies optimal box sizes, minimizing wasted space and materials. This data-driven approach not only cuts costs but also enhances sustainability by reducing packaging waste.
 
 <a href="https://www.kaggle.com/code/anggoletomi/smart-sizing-packaging-efficiency-enhancement" target="_blank"><b>🖥️ Kaggle - Source Code</b></a>  
 
 ---
 
-## <a href="https://www.kaggle.com/code/anggoletomi/unearthing-hidden-gems-in-your-sales-data" target="_blank">6. Leveraging Market Basket Analysis: Unearthing Hidden Gems in Your Sales Data</a>
+## <a href="https://www.kaggle.com/code/anggoletomi/unearthing-hidden-gems-in-your-sales-data" target="_blank">7. Leveraging Market Basket Analysis: Unearthing Hidden Gems in Your Sales Data</a>
 This Python-based project, hosted on Kaggle, applies Market Basket Analysis to uncover hidden associations among products. By analyzing transaction data, it identifies frequently bought-together items and repeat purchases, providing actionable insights to optimize cross-selling strategies and improve inventory management.
 
 <a href="https://www.kaggle.com/code/anggoletomi/unearthing-hidden-gems-in-your-sales-data" target="_blank"><b>🖥️ Kaggle - Source Code</b></a> 
