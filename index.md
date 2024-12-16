@@ -8,9 +8,9 @@ This is an A customizable AI chatbot designed to showcase personal details, skil
 <a href="https://github.com/anggoletomi/know-me-ai-bot" target="_blank"><b>🖥️ Git - Source Code</b></a>
 
 ## <a href="https://github.com/anggoletomi/coingecko_crypto_api_data" target="_blank">2. Cryptocurrency Market Data</a>
-Fetch market data for the top 100 cryptocurrencies using the <span style="color:#f1c40f; font-weight:bold;">CoinGecko</span> API and visualize insights with <span style="color:#f1c40f; font-weight:bold;">Tableau</span>
+Fetch market data for the top 100 cryptocurrencies using the <span style="color:#f1c40f; font-weight:bold;">CoinGecko</span> API and visualize the data with <span style="color:#f1c40f; font-weight:bold;">Tableau</span>
 
-<a href="https://public.tableau.com/views/CryptoCoinGecko/CoinGeckoCryptocurrency?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank"><b>📊 Tableau - Access the Dashboard</b></a><br>
+<a href="https://public.tableau.com/app/profile/anggoletomi.marlis.putra/viz/CryptoCoinGecko/CoinGeckoCryptocurrency" target="_blank"><b>📊 Tableau - Access the Dashboard</b></a><br>
 <a href="https://github.com/anggoletomi/coingecko_crypto_api_data" target="_blank"><b>🖥️ Git - Source Code</b></a>
 
 ## <a href="https://github.com/anggoletomi/generalized-recommendation-system" target="_blank">3. Generalized Recommendation System</a>
