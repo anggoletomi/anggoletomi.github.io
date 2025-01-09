@@ -93,7 +93,7 @@ This is an <span style="color:#f1c40f; font-weight:bold;">ongoing project</span>
 
 <!-- ==================================================== END ==================================================== -->
 
-## <a href="https://lookerstudio.google.com/reporting/6a1b2785-da92-4bd6-aabe-1f7763c0d257" target="_blank">6. E-Commerce Data Workflow and Reporting Automation</a>  
+## <a href="https://github.com/anggoletomi/commerce_data" target="_blank">6. E-Commerce Data Workflow and Reporting Automation</a>  
 This project is an automation framework designed to streamline data workflows and reporting processes in e-commerce. It facilitates data synchronization, processing, and report generation, ensuring efficiency and accuracy throughout the entire lifecycle.
 
 **✨ Highlights:**
