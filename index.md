@@ -75,7 +75,7 @@ This project is a data pipeline that fetches, processes, and visualizes cryptocu
 <!-- ==================================================== END ==================================================== -->
 
 ## <a href="https://github.com/anggoletomi/generalized-recommendation-system" target="_blank">5. Generalized Recommendation System</a>
-This is an <span style="color:#f1c40f; font-weight:bold;">ongoing project</span> focused on building a comprehensive recommendation system pipeline—covering data preprocessing, model training, and performance evaluation. It can be adapted for recommending books, movies, products, and more.
+This project focused on building a comprehensive recommendation system pipeline—covering data preprocessing, model training, and performance evaluation. It can be adapted for recommending books, movies, products, and more.
 
 **✨ Highlights:**
 1. **Scalable Recommendations**: Flexible framework for various domains like e-commerce, entertainment, and education.  
